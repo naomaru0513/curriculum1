@@ -29,10 +29,7 @@ public class Study {
     	shohinList.add(SHOP_SHOHIN_03);
 
 
-    
-
-
-
+   
         // ② 以下の「shopMap.put(shohinList.get(1), 180);」の処理について、コメントを記述してください。
         /*
          * [putメソッドに引数を２つ指定している。第１引数がキー（牛乳）、第２引数がキーに紐づく値（１８０）である。
@@ -51,12 +48,6 @@ public class Study {
         for(Map.Entry<String, Integer> entry : shopMap.entrySet()){
 		    System.out.println(entry.getKey() + "=" + entry.getValue() + "になります！");
 		}
-        
-        
-        
-        
-        
-        
         
      
     }
