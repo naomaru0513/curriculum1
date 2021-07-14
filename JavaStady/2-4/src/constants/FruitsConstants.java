@@ -3,7 +3,7 @@ package constants;
 /**
  * フルーツの定数クラス
  */
-public class FruitsConstants {
+public class FruitsConstants  {
 
     // フルーツ定数（種類）
     public static final String FRUITS_APPLE_01 = "りんご";
