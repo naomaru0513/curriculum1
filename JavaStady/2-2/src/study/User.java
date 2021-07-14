@@ -21,19 +21,19 @@ class User {
     // アクセス修飾子:「protected」
     // メソッド名:「printAccountInfo」
 
-    protected void printAccountInfo() {}
+    protected void printAccountInfo() {
     
-    	public void showName() {
+        
     		System.out.println("ユーザー名は"+ this.userName +"です。");
-    	}
-    	public void showId() {
+    	
+    	
     		System.out.println("IDは"+ this.id);
-    	}
-    	public void showPassword() {
+    	
+    
     		System.out.println("パスワードは"+ this.password);
-    	}
-    }
+    	
+    
 
 
     
-    	 
+    }}
