@@ -24,7 +24,7 @@ public class Check {
 		RobotPet robotPet = new RobotPet(Constants.CHECK_CLASS_R2D2,Constants.CHECK_CLASS_LUKE);
 
 
-		System.out.print("printNameメソッド→");
+	System.out.print("printNameメソッド→");
 		check.printName(check.lastName, check.firstName);
 		pet.introduce();
 		robotPet.introduce();
