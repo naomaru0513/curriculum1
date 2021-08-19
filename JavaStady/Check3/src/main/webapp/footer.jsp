@@ -7,9 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-<!-- フッターを作成 -->
-<div class="login">login</div>
-
+	<!-- フッターを作成 -->
+	<div class="footer">
+		<div class="hoge">hoge.Inc</div>
+	</div>
 </body>
 </html>

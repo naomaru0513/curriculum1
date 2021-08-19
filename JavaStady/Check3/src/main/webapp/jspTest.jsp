@@ -5,10 +5,23 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
+<link rel="styleheet" href="/Check3/css/style.css">
 </head>
 <body>
-
-<!-- name、idの入力エリアを作成しなさい -->
-
+	<!-- name、idの入力エリアを作成しなさい -->
+	<%@include file="header.jsp"%>
+	<div class="center">
+		<table>
+			<tr>
+				<th>name</th>
+				<td><input type="text" name="name" id="id"></td>
+			</tr>
+			<tr>
+				<th>id</th>
+				<td><input type="text" name="name" id="id"></td>
+			</tr>
+		</table>
+	</div>
+	<%@include file="footer.jsp"%>
 </body>
 </html>
