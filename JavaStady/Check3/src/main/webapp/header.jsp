@@ -6,6 +6,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>jogin</title>
+<link rel="styleheet" href="/Check3/css/style.css">
 </head>
 <body>
 	<div class="header">
